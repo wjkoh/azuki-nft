@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #4822",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4822.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Short Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Fire",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Maroon Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Indifferent",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Golden Kanabo",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

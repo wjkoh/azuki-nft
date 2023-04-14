@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #5768",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5768.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Purple Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cowboy Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Red Stripes Face Paint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Tank Top",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Bored",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

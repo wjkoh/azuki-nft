@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #751",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/751.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Ayaigasa",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Blush",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Koi Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Black Oversized Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Toothpick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

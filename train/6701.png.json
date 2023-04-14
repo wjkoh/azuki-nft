@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #6701",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6701.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Hairband",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Mask",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Tank Top with Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Frown",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

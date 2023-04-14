@@ -1,0 +1,30 @@
+{
+  "name": "Azuki #2129",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2129.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Panda Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Daydreaming",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

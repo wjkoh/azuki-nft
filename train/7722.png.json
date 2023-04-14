@@ -1,0 +1,30 @@
+{
+  "name": "Azuki #7722",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7722.png",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Buzzcut",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Azuki Sweater",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Indifferent",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

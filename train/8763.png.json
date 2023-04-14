@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #8763",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8763.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Half Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sleep Mask",
+      "trait_type": "Face"
+    },
+    {
+      "value": "White Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Leather Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

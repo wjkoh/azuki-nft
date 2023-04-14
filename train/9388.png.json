@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #9388",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9388.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Purple Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Butterfly",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Chef Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Black Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Fur Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Curious",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Not Bad",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Dark Purple",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Azuki #1599",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1599.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Black Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Suspicious",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grass",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

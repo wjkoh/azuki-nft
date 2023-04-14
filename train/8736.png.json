@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #8736",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8736.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Messy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sleep Mask",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Sneakers",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Alpine Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

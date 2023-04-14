@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #8730",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8730.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Mask",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Black Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Blue Floral Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Concerned",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chewing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Banner",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Cool Gray",
+      "trait_type": "Background"
+    }
+  ]
+}

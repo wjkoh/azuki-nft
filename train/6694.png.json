@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #6694",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6694.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Floral Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Joyful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grass",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

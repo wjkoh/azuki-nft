@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #1046",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1046.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Black Tech Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Determined",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Pout",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Golden Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

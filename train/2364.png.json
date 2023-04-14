@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #2364",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2364.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Purple Pigtails",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Fang Face Paint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Black Ninja Top",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Fan",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

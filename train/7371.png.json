@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #7371",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7371.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Beads",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Bloody Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Indifferent",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grass",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Zanbato",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

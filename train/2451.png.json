@@ -1,0 +1,46 @@
+{
+  "name": "Azuki #2451",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2451.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Water",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Yellow Kanzashi",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Wu",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Turquoise Kimono with Bow",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Daydreaming",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Water Orb",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

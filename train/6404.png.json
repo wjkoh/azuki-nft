@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #6404",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6404.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Short Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Full Bandana",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Tank Top",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Chill",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chuckle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Umbrella",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

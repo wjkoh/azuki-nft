@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #9116",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9116.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Contract Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Red Panda Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Ruby",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smoking",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Gloves",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #7204",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7204.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Dreadlocks",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Eye Patch",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Kimono with Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Zanbato",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

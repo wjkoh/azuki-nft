@@ -1,0 +1,46 @@
+{
+  "name": "Azuki #87",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/87.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Fireflies",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Fur Bucket Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Round Purple Sunglasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Vegan Mink Coat",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Meditating",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smoking",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Fireball",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Cool Gray",
+      "trait_type": "Background"
+    }
+  ]
+}

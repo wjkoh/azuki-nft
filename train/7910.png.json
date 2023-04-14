@@ -1,0 +1,30 @@
+{
+  "name": "Azuki #7910",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7910.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Teal Bob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Turquoise Kimono with Bow",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lipstick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

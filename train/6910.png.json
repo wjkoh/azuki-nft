@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #6910",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6910.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Purple Kanzashi",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Blue Floral Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Whistling",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hook Sword",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

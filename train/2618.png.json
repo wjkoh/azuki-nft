@@ -1,0 +1,30 @@
+{
+  "name": "Azuki #2618",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2618.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Maroon Short Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Shinto Robe",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Indifferent",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Not Bad",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

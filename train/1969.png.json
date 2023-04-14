@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #1969",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1969.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Dragon",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Koi Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Black Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Bored",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wheat Straw",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Banner",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

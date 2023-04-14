@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #6620",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6620.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Maroon Short Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Ayaigasa",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Black Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Leather Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

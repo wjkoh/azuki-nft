@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #494",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/494.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Reading Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Blue Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Curious",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Not Bad",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Sakura Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

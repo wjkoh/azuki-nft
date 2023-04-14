@@ -1,0 +1,30 @@
+{
+  "name": "Azuki #8309",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8309.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pink Bangs",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Archer",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Hopeful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Whistling",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

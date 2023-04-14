@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #5950",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5950.png",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Disheveled",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cat Beanie",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Red Fang Face Paint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Cat Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Maroon Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "White",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Not Bad",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Cool Gray",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #3553",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3553.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Maroon Half Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Clear Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Blue Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Indifferent",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Whistling",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lantern",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

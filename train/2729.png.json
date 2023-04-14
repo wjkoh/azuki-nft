@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #2729",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2729.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Bangs",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "IKZ Baseball Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Black Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Fur Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Joyful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Frown",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Talisman",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

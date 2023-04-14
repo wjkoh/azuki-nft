@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #4841",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4841.png",
+  "attributes": [
+    {
+      "value": "Spirit",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Spirit Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Water",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Frog Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Blue Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Striking",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Dark Purple",
+      "trait_type": "Background"
+    }
+  ]
+}

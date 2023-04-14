@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #5216",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5216.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Broken Straw Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Cat",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Towel",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Black Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Bored",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Not Bad",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

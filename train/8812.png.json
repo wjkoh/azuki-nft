@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #8812",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8812.png",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Fire",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Earth",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Black Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Fire",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Meh",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Earth",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

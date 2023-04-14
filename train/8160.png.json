@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #8160",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8160.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Purple Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Mask",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Black Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Black Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Toothpick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Monkey King Staff",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

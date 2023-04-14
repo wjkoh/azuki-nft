@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #8498",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8498.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Powder Blue Disheveled",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Beret",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Bandaid",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Black Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Tired",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Umbrella",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

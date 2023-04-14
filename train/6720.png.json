@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #6720",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6720.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Orange Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Chill Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Kimono with Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pierced Eyebrow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Growl",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Monk Staff",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

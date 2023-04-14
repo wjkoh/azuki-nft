@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #5691",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5691.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Teal Hairband",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Lipstick Kiss",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Red Ninja Top",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chewing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bat",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #617",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/617.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Orange Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Chef Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Chill Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Black Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Tired",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Growl",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bat",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

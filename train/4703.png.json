@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #4703",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4703.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Fang Face Paint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Azuki Tech Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Calm",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grass",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lantern",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

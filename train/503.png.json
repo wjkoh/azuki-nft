@@ -1,0 +1,46 @@
+{
+  "name": "Azuki #503",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/503.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Teal Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Blue Fan",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Black Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Rain Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Tired",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Tactical Knife",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bean Juice",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #8443",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8443.png",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Pixie",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Chiyogami",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Black Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Red Floral Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Striking",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Coin",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

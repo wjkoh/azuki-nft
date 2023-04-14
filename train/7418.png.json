@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #7418",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7418.png",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Pixie",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Fang Face Paint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Red Panda Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Striking",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bean Juice",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

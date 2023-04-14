@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #9826",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9826.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sloth Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Black Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Careless",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Tactical Knife",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bat",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

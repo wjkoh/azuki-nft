@@ -1,0 +1,30 @@
+{
+  "name": "Azuki #999",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/999.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Swept Back",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Blue Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Focused",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Not Bad",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

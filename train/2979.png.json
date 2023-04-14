@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #2979",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2979.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Disheveled",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Full Bandana",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Black Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Meditating",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bean Juice",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

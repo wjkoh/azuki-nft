@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #3259",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3259.png",
+  "attributes": [
+    {
+      "value": "Spirit",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Spirit Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Purple Kanzashi",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Sunflower",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "White Qipao with Fur",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Daydreaming",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lipstick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hook Sword",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Cool Gray",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Azuki #6592",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6592.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "White Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Careless",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smoking",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

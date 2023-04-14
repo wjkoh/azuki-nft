@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #7898",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7898.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Square Stud",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Rain Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Meditating",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Face Mask",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

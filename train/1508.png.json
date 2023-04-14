@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #1508",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1508.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Teal Bob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Yellow Kanzashi",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Chill Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Cat Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Amethyst",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lipstick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

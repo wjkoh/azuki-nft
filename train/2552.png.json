@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #2552",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2552.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Pixie",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Broken Straw Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Light Armor",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Amethyst",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Scroll",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Talisman",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

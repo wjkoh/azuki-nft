@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #5046",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5046.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Teal Bangs",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Eye Patch",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Cat Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Azuki #3877",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3877.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Full Bandana",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Pearl",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Towel",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Red Ninja Top",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lipstick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Leather Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #605",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/605.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Braids",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Hoshi Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Suspicious",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grass",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Zanbato",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

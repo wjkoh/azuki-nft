@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #2992",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2992.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Spiked Ring",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Tribal Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Turquoise Kimono with Bow",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Amethyst",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Lightning Orb",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #4706",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4706.png",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Magenta Pigtails",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Azuki Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Pearl",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Ji Eyeband",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Frog T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

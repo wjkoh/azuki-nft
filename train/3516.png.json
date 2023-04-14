@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #3516",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3516.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Swept Back",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Chill",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Light Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Meditating",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Face Mask",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hand Wrap",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

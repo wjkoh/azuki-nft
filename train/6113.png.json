@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #6113",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6113.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Orange Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Kimono with Straw Hat",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Tired",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Monk Staff",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

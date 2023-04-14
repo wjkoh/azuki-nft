@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #5710",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5710.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Yin Yang",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Eye Patch",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Red Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Chain",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

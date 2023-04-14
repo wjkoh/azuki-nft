@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #1670",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1670.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Black Fluffy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Black Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Tank Top",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pensive",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wheat Straw",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Golden Umbrella",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

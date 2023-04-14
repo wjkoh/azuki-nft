@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #7614",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7614.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Beads",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Maroon Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Curious",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Guitar",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

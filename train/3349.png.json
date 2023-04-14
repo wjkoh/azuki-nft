@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #3349",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3349.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Full Bandana",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Spiked Ring",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Zen Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Beige Poncho",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Focused",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Bubble Gum",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

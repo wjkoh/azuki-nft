@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #8221",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8221.png",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Magenta Messy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Lightning",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Black Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Suspicious",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Sake",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

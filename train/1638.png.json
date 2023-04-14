@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #1638",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1638.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Bob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Panda Baseball Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Bandaid",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Red Panda Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Determined",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grass",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Golden Kanabo",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

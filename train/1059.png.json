@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #1059",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1059.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Maroon Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Full Bandana",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Black Qipao",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Skateboard",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

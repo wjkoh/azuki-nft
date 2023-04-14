@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #1504",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1504.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Half Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Kigurumi",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "White",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Toothpick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Floorsweeper",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

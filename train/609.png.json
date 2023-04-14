@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #609",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/609.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Black Disheveled",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Bandaid",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Red Perfecto Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pensive",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Gloves",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

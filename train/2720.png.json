@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #2720",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2720.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Gray Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Bandaid",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Black T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Chill",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Meh",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bean Juice",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

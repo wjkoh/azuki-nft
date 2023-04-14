@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #3374",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3374.png",
+  "attributes": [
+    {
+      "value": "Spirit",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Spirit Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Earth",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Newsboy Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Black Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "White",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Meh",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Earth",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

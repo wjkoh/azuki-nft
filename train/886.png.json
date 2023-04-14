@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #886",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/886.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Powder Blue Pigtails",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Bandana",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Black Ninja Top",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Ruby",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Leather Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

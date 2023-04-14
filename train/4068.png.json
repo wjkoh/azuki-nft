@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #4068",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4068.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Round Blue Sunglasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Cloud Poncho",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Striking",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Boombox",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Cool Gray",
+      "trait_type": "Background"
+    }
+  ]
+}

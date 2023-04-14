@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #6580",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6580.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Fox Fire",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Green Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Focused",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wheat Straw",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

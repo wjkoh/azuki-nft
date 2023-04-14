@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #8523",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8523.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pink Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sunflower",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Tank Top",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Calm",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Whistling",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bean Juice",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

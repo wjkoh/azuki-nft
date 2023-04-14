@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #5303",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5303.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Bangs",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Black Bucket Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Black Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Ruby",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lipstick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Leather Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Purple",
+      "trait_type": "Background"
+    }
+  ]
+}

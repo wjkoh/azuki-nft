@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #46",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/46.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Striking",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Tongue Out",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hand Seal",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

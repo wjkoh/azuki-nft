@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #3769",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3769.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Purple Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Panda Mask",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Bloody Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Joyful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chewing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bat",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

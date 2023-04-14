@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #967",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/967.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Spiked Ring",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Red Perfecto Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Tired",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Meh",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Floorsweeper",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

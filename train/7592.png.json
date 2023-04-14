@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #7592",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7592.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Bumblebee Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Daydreaming",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chewing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Monk Staff",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

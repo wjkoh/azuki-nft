@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #3750",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3750.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Dragon",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "White Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pensive",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Guitar",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

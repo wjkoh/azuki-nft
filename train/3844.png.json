@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #3844",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3844.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Maroon Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "IKZ Baseball Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Hoop",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Cat Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Amethyst",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bat",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

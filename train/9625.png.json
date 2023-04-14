@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #9625",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9625.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Disheveled",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Black T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pensive",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Guitar",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #5817",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5817.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Eye Scar",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Frog Kigurumi",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Calm",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Surprised",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

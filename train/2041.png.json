@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #2041",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2041.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Mask",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Choker",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Hopeful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chewing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #3570",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3570.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Messy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Water",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Red Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Chain",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Meditating",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Meh",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

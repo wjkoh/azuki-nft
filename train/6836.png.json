@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #6836",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6836.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Bob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sneakers",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Azuki Tech Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "White",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hand Seal",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Azuki #3261",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3261.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Blonde Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Broken Straw Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Ear Cuffs",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Zen Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "White Blazer",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Meditating",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chuckle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Coin",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

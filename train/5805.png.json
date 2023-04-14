@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #5805",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5805.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Purple Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Kabuki Facepaint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Chill Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Blue Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Bored",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Growl",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Zanbato",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #6001",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6001.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Swept Back",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Dragon",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Blue Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Suspicious",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Fishing Rod",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

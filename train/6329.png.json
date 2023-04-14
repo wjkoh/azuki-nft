@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #6329",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6329.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Teal Hairband",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Yellow Kanzashi",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Zen Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Red Ninja Top",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Hopeful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smoking",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Leather Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

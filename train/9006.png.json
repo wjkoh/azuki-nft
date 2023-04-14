@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #9006",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9006.png",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Buzzcut",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Red Stripes Face Paint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Green Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Long Stubble",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hand Wrap",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

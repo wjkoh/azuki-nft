@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #7600",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7600.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Fluffy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Beads",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Black Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pensive",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Toothpick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Talisman",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

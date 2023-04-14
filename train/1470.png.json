@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #1470",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1470.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Teal Messy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Tribal Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Black Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Indifferent",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wheat Straw",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

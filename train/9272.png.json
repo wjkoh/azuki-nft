@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #9272",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9272.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "IKZ Baseball Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Kimono with Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pensive",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Toothpick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bat",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #2205",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2205.png",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Water",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Water",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Blue Qipao",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "White",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Fan",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

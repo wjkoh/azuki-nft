@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #6810",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6810.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sword",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Tribal Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Hoshi Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Determined",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Whistling",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

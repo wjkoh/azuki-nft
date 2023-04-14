@@ -1,0 +1,46 @@
+{
+  "name": "Azuki #6599",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6599.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Pigtails",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Butterfly",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Black Bucket Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Clear Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Tribal Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Turquoise Kimono with Bow",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Dark Purple",
+      "trait_type": "Background"
+    }
+  ]
+}

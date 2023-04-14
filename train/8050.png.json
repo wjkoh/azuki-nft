@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #8050",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8050.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cat Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Blue Sunglasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Blue Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Curious",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Not Bad",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Blue Bean",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

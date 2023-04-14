@@ -1,0 +1,46 @@
+{
+  "name": "Azuki #5979",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5979.png",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Fire",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Yin Yang",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Contract Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Dress Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Determined",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chuckle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Fireball",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Purple",
+      "trait_type": "Background"
+    }
+  ]
+}

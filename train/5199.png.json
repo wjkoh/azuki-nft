@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #5199",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5199.png",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Bob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Chill Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Light Armor",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Talisman",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #974",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/974.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Stripes Face Paint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Towel",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Suikan",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Careless",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chuckle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Blue Bean",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

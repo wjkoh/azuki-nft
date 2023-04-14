@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #8826",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8826.png",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Gray Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Fireflies",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Ayaigasa",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "White Layered Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chuckle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shuriken",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Cool Gray",
+      "trait_type": "Background"
+    }
+  ]
+}

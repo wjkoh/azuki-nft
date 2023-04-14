@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #3102",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3102.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Fluffy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Bandaid",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Fur Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Focused",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Pout",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Banner",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

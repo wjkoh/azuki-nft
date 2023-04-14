@@ -1,0 +1,46 @@
+{
+  "name": "Azuki #8310",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8310.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Bob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Yellow Kanzashi",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Red Stripes Face Paint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Beads",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Turquoise Kimono with Bow",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Calm",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smoking",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Fishing Rod",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #5916",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5916.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Bangs",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sandogasa",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Bloody Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Glowing",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Frown",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

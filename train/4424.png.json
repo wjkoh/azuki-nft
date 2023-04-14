@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #4424",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4424.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pink Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Fire",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Maroon Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Fire",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hand Wrap",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

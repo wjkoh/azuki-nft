@@ -1,0 +1,30 @@
+{
+  "name": "Azuki #7921",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7921.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Blue Bikini",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Amethyst",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Bubble Gum",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

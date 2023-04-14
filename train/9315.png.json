@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #9315",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9315.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Violet Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "IKZ Baseball Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Lavender Kimono with Bow",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Ruby",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grass",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

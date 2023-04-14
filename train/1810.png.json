@@ -1,0 +1,46 @@
+{
+  "name": "Azuki #1810",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1810.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Bob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Fox Fire",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Broken Straw Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Lipstick Kiss",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Red Qipao with Fur",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Calm",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Bubble Gum",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hook Sword",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

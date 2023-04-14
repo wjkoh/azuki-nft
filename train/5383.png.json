@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #5383",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5383.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Teal Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Black Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Growl",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bean Juice",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

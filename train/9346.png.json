@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #9346",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9346.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Fox Fire",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Blue Cylinder",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Vegan Mink Coat",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bokken",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

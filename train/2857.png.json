@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #2857",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2857.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Purple Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Stripes Face Paint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Maroon Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Chill",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Meh",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

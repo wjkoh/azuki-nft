@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #7327",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7327.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Fluffy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Fang Face Paint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Sneakers",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Black Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Careless",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Floorsweeper",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

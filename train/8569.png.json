@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #8569",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8569.png",
+  "attributes": [
+    {
+      "value": "Spirit",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Spirit Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Black Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Camo Tech Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "White",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Meh",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bat",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

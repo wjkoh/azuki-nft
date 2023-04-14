@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #9188",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9188.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Yellow Kanzashi",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Lavender Kimono with Bow",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Fire",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "420",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

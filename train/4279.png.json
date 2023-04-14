@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #4279",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4279.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Orange Short Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cowboy Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Cat Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Suspicious",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Pout",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Monkey King Staff",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

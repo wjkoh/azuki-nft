@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #2036",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2036.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Messy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Smoke",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Round Blue Sunglasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Kimono with Straw Hat",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Focused",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Golden Shinai",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

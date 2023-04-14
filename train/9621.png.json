@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #9621",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9621.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Cylinder",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Kabuki Facepaint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Azuki Tech Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Joyful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

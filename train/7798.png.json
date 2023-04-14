@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #7798",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7798.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Maroon Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Backwards Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Round Blue Sunglasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Towel",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Sloth Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pierced Eyebrow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Tongue Out",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

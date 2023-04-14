@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #3204",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3204.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Purple Half Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Black Bucket Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Red Floral Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Joyful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Bubble Gum",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

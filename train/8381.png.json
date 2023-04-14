@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #8381",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8381.png",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Pointy Straw Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Sloth T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Daydreaming",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Toothpick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Umbrella",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

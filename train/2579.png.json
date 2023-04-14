@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #2579",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2579.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Short Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Koi Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Alpine Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Growl",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

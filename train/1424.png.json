@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #1424",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1424.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Bob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Fox Fire",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Cat Ears",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Blue Bikini",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Concerned",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

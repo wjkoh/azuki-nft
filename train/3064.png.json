@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #3064",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3064.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Pixie",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Eye Scar",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Turquoise Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Hopeful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Frown",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Coin",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

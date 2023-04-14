@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #8657",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8657.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Maroon Half Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Black Bucket Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Sneakers",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Rain Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Determined",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lipstick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #2508",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2508.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Blue Tassel",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Zen Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Blue Floral Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Amethyst",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

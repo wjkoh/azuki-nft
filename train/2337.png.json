@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #2337",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2337.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Messy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Sloth",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Black Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Meditating",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Meh",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #5479",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5479.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Teal Bob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Eye Scar",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Cat Kigurumi",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Determined",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Surprised",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Fishing Rod",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

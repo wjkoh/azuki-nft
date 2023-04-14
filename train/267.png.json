@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #267",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/267.png",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Bangs",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Round Blue Sunglasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Golden Frog Kigurumi",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Calm",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Leather Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Purple",
+      "trait_type": "Background"
+    }
+  ]
+}

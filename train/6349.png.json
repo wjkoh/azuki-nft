@@ -1,0 +1,30 @@
+{
+  "name": "Azuki #6349",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6349.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Black Teal Bangs",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Blue Bikini",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Concerned",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chewing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

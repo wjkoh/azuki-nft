@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #5261",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5261.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Indigo Fluffy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Beanie",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Frog T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Tired",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smoking",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Dark Purple",
+      "trait_type": "Background"
+    }
+  ]
+}

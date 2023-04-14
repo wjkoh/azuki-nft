@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #9667",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9667.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Azuki Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Dragon",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Light Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Calm",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chewing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

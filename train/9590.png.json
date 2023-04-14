@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #9590",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9590.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Buzzcut",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cowboy Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Suit with Turtleneck",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Careless",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Scroll",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Sakura Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

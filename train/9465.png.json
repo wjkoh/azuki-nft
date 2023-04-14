@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #9465",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9465.png",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Chill",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Red Floral Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Sleep Bubble",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shuriken",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

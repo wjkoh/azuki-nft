@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #813",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/813.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Pointy Straw Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Wireless Earbuds",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Vest",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Focused",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bean Juice",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

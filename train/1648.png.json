@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #1648",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1648.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Bob",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Beanie",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Kabuki Facepaint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Blue Bikini",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Determined",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Toothpick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shinai",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

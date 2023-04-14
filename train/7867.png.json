@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #7867",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7867.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sloth Baseball Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Blush",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Blue Qipao",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Joyful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Whistling",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Leather Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

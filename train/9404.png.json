@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #9404",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/9404.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pink Hairband",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Lightning",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Ayaigasa",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Light Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Toothpick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Golden Bean",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

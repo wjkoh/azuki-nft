@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #3881",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3881.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Black Pigtails",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sloth Baseball Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Hawaiian Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lipstick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Sake",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

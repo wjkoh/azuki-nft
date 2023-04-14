@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #3402",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3402.png",
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cowboy Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Seer Eyeband",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Blue Floral Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lipstick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shuriken",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

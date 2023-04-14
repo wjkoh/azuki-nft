@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #8662",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8662.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Teal Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Small Hoop",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bloody Bomber",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Careless",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

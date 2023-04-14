@@ -1,0 +1,30 @@
+{
+  "name": "Azuki #7594",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7594.png",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Magenta Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Green Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Glowing",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Growl",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

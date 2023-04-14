@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #3335",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3335.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Long Dreadlocks",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Kabuki Facepaint",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Bumblebee Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Determined",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Water Orb",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

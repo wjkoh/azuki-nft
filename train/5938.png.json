@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #5938",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5938.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Silver Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Blue Fan",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Light Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Focused",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Face Mask",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Fireball",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Cool Gray",
+      "trait_type": "Background"
+    }
+  ]
+}

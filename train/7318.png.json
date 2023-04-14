@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #7318",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7318.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Orange Pixie",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Panda Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Wu",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Bandage Top",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Amethyst",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

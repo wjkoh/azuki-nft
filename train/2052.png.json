@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #2052",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2052.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Orange Pixie",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cat Baseball Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Light Armor",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pierced Eyebrow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Tongue Out",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Shuriken",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

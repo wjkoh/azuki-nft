@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #1939",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1939.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sandogasa",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Frog T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pensive",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "420",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Fan",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #7631",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7631.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Half Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Fox Fire",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Distressed Beanie",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Dress Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Bored",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

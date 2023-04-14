@@ -1,0 +1,46 @@
+{
+  "name": "Azuki #2587",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2587.png",
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Maroon Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Chef Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Small Hoop",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Sleep Mask",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Cat T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Sakura Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

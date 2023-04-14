@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #1165",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1165.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Half Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Frog Mask",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Eye Patch",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Suit with Turtleneck",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Floorsweeper",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #8915",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8915.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Magenta Pigtails",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Chef Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Blue Fan",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Cat T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Determined",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Tongue Out",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Zanbato",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Purple",
+      "trait_type": "Background"
+    }
+  ]
+}

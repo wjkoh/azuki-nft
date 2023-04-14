@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #7808",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7808.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Black Blazer",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Chain",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Suspicious",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Long Stubble",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Hand Wrap",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

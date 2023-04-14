@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #7575",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/7575.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Disheveled",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Ear Cuffs",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Beads",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "White Layered Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Careless",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grass",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

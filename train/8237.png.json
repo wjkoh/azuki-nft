@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #8237",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8237.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Dreadlocks",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Blue Sunglasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Choker",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Daydreaming",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Blue Bean",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

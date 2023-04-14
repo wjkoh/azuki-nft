@@ -1,0 +1,46 @@
+{
+  "name": "Azuki #2286",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2286.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Short Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Wireless Earbuds",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Red Bandana",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Contract Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Vest",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Tired",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Coin",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

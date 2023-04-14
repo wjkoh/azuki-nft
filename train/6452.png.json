@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #6452",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6452.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Magenta Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Distressed Beanie",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Sloth",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Blue Floral Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Ruby",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #561",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/561.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Orange Pixie",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Lightning",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Ayaigasa",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Yellow Bikini",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smile",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Coin",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Blue",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #5161",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5161.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Magenta Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cat Ears",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Ear Cuffs",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Shinto Robe",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Meditating",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Not Bad",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bat",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ]
+}

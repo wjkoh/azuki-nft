@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #5558",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5558.png",
+  "attributes": [
+    {
+      "value": "Spirit",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Spirit Goddess",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Fireflies",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Contract Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Black Oversized Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Joyful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lipstick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Golden Sheathed Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Cool Gray",
+      "trait_type": "Background"
+    }
+  ]
+}

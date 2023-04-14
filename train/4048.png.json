@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #4048",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4048.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Violet Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Round Purple Sunglasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Choker",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Striking",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Tongue Out",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

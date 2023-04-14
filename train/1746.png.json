@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #1746",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1746.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Maroon Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Blush",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Choker",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lipstick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

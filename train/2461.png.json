@@ -1,0 +1,50 @@
+{
+  "name": "Azuki #2461",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2461.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Black Disheveled",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sakura",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Cat Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Stud",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Red Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Chain",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Pensive",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Relaxed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Skateboard",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ]
+}

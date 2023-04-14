@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #6280",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6280.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Magenta Pigtails",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Newsboy Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Vegan Mink Coat",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Sleep Bubble",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Sakura Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Azuki #397",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/397.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pink Hairband",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Corded Earbuds",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Camo Tech Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Calm",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Azuki #8740",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/8740.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Messy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cat Baseball Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Cat Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Kimono with Straw Hat",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pensive",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ]
+}

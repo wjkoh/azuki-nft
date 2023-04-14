@@ -1,0 +1,42 @@
+{
+  "name": "Azuki #846",
+  "image": "ipfs://QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/846.png",
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Purple Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Panda Beanie",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Ethereum",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Contract Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Red Panda Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Hopeful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Whistling",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ]
+}
